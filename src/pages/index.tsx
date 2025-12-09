@@ -119,7 +119,7 @@ export default function Home(): ReactNode {
         <div className={styles.footerOverlay}>
           <div className={styles.container}>
             <div className={styles.contactInfo}>
-              <a href="mailto:maddan@yahoo.com" className={styles.contactLink}>madddan@yahoo.com</a>
+              <a href="mailto:madddan@yahoo.com" className={styles.contactLink}>madddan@yahoo.com</a>
               <span className={styles.separator}>|</span>
               <span className={styles.phone}>91766 46859</span>
               <span className={styles.separator}>|</span>
