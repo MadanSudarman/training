@@ -120,9 +120,9 @@ export default function Home(): ReactNode {
           <div className={styles.container}>
             <div className={styles.contactInfo}>
               <a href="mailto:madddan@yahoo.com" className={styles.contactLink}>madddan@yahoo.com</a>
-              <span className={styles.separator}>|</span>
+              </br>
               <span className={styles.phone}>91766 46859</span>
-              <span className={styles.separator}>|</span>
+              </br>
               <a href="https://linkedin.com/in/madan-sudarman" className={styles.contactLink} target="_blank" rel="noopener noreferrer">linkedin.com/in/madan-sudarman</a>
             </div>
           </div>
