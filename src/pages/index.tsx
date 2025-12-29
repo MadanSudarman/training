@@ -8,7 +8,7 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Madan Sudarman - Profile`}
+      title={`Madan Sudarman`}
       description="Corporate Trainer & Technology Consultant Profile">
 
       {/* Header With Overlay */}
