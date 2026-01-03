@@ -35,6 +35,7 @@ export default function Home(): ReactNode {
           <img src={useBaseUrl("/img/azure.png")} alt="Azure AI Engineer" className={styles.certLogo} />
           <img src={useBaseUrl("/img/copilot.png")} alt="GitHub Copilot" className={styles.certLogo} />
           <img src={useBaseUrl("/img/certprof.png")} alt="CertProf" className={styles.certLogo} />
+          <img src={useBaseUrl("/img/NVIDIA.png")} alt="NVIDIA-Certified Associate: AI Infrastructure and Operations" className={styles.certLogo} />
           <img src={useBaseUrl("/img/finops.png")} alt="FinOps Certified" className={styles.certLogo} />
           <img src={useBaseUrl("/img/mct.png")} alt="MCT" className={styles.certLogo} />
         </div>
